@@ -29,9 +29,13 @@ Sử dụng ngôn ngữ chính xác, khách quan, ngắn gọn. Không nhận x�
 **Ví dụ 1**
 
 Input email:
-
-"Chào phòng nhân sự, tôi tên NGUYỄN VĂN AN, ứng tuyển vị trí Backend Developer. Tôi có 2 năm kinh nghiệm làm việc với Python, SQL, FastAPI. SĐT: 0912 345 678. Email: an.nguyen@gmail.com."
-
+```text
+Chào phòng nhân sự, tôi tên Nguyễn Văn An.
+Tôi xin ứng tuyển vị trí Backend Developer.
+Tôi có 2 năm kinh nghiệm làm việc với Python, SQL, FastAPI.
+SĐT: 0912 345 678.
+Email: an.nguyen@gmail.com.
+```
 Output mong muốn:
 | Trường thông tin | Kết quả |
 |---|---|
@@ -56,9 +60,13 @@ Output mong muốn:
 **Ví dụ 2**
 
 Input email:
-
-"Xin chào HR, mình là Trần Thị Bình. Mình muốn ứng tuyển vị trí Data Analyst. Mình đã làm việc trong lĩnh vực phân tích dữ liệu được 3 năm. Các công cụ mình sử dụng thường xuyên là Excel, SQL, Python và Excel. Email liên hệ: binhtt@gmail.com."
-
+```text
+Xin chào HR, mình là Trần Thị Bình.
+Mình muốn ứng tuyển vị trí Data Analyst.
+Mình đã làm việc trong lĩnh vực phân tích dữ liệu được 3 năm.
+Các công cụ mình sử dụng thường xuyên là Excel, SQL, Python và Excel.
+Email liên hệ: binhtt@gmail.com."
+```
 Output mong muốn:
 | Trường thông tin | Kết quả |
 |---|---|
